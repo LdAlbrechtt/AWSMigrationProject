@@ -9,7 +9,7 @@ Projeto de migração de infraestrutura on-premises para AWS, com modernização
 
 ## 🛠️ Tecnologias Utilizadas
 
-### Fase 1 - Lift-and-Shift Inicial (Migração do On-Premise para a VPC à Esquerda)
+### Fase 1 - Lift-and-Shift Inicial 
 
 | Tecnologia             | Função                                                                                                                               |
 | ---------------------- | ------------------------------------------------------------------------------------------------------------------------------------ |
@@ -23,7 +23,7 @@ Projeto de migração de infraestrutura on-premises para AWS, com modernização
 | AWS Security Groups    | Firewalls virtuais para controlar o tráfego de entrada e saída das instâncias EC2 e do RDS.                                           |
 | Amazon EBS Snapshot    | Criação de snapshots para backups dos volumes de disco das instâncias EC2 e do RDS.                                                  |
 
-### Fase 2 - Modernização (Componentes à Direita da VPC)
+### Fase 2 - Modernização 
 
 | Tecnologia                 | Função                                                                                                                               |
 | -------------------------- | ------------------------------------------------------------------------------------------------------------------------------------ |
