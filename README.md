@@ -6,7 +6,6 @@ Projeto de migração de infraestrutura on-premises para AWS, com modernização
 - **Objetivo:** Migrar aplicação de e-commerce para AWS em 2 fases:
   1. **Lift-and-Shift** (migração rápida "as-is")
   2. **Modernização** (Kubernetes + Aurora MySQL)
-- **Resultado Esperado:** Infraestrutura escalável, segura e com custo otimizado.
 
 ## 🛠️ Tecnologias Utilizadas
 
@@ -44,12 +43,12 @@ Projeto de migração de infraestrutura on-premises para AWS, com modernização
 
 
 ## 📊 Arquitetura
+
 ### Fase 1: 
-![image](https://github.com/user-attachments/assets/04937983-3e57-4a6c-ba33-aad68c60f847) 
-
+![image](https://github.com/user-attachments/assets/42bb0322-3e4a-4f9c-a724-21a404566a33)
+ 
 ### Fase 2: 
-![image](https://github.com/user-attachments/assets/195a570a-1239-44f1-a3ee-e61fbf03e6c0)
-
+![image](https://github.com/user-attachments/assets/5e700830-5309-4f91-8ce1-5ba470cab8f6)
 
 
 ## 🔄 Fluxo de Trabalho 
